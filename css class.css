@@ -1,0 +1,109 @@
+/* button{
+    /* border: 10px solid blue; */
+    /* border-top:10px groove blue;
+    border-right: 10px inset green;
+    border-bottom: 10px solid purple;
+    border-left: 10px outset red;
+    width: 100px; */
+    padding: 20px 50px;
+    margin: 0px 20px;
+    box-shadow: inset -10px 30px 20px black;
+    border: none;
+    border-radius: ;
+    background: grey;
+
+} */
+h1{
+    font-family: 'Pixelify Sans', sans-serif;
+}
+h3{
+    font-family: 'DM Serif Display', serif;
+}
+div{
+    font-family:  'Courier Prime', monospace;
+    background: rgba(0, 0, 255, 0.66);
+    width: 400px;
+    height: 400px;
+    background-image: url(img.22.jpg);
+    background-repeat: no-repeat;
+    background-position: 92px 100px;
+    background-attachment: relative
+    ;
+    margin: 0px auto;
+    border-radius: 70px 0px 0px 70px00000000006366;
+}
+img{
+    width: 60%;
+    height: 500px;
+    opacity: 0.6;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: blue;
+}
+a:active{
+    color: red;
+}
+a:hover{
+    color: green;
+}
+a:visited{
+    color: yellow;
+}
+ul{
+    list-style-type: upper-roman;
+}
+ol{
+    list-style-type: square;
+    
+}
+table{
+    border: 20px groove red;
+    border-collapse: no-collapse;
+    border-spacing: 10px;
+
+}
+tr{
+
+}
+td{
+    border: 6px groove blue;
+    padding: 20px;
+    text-align: center;
+    background: green;
+    box-shadow: inset 0px 0px 10px 3px blanchedalmond;
+
+}
+form{
+    background: lightgreen;
+    margin-top: 40px;
+}
+input{
+    height: 20px;
+    width: 200px;
+    padding: 0px 20px 0px 5px;
+    outline: none;
+    border: none;
+
+}
+input:focus{
+    border: 1px solid red;
+    background-color: blue;
+}
+input[type="name"]{
+    border-bottom: 1px solid black;
+}
+input[type="number"]{
+    border-bottom: 1px solid black;
+}
+input[type="password"]{
+    border-bottom: 1px solid black;
+}
+input[type="radio"]{
+   accent-color: green;
+}
+input[type="checkbox"]{
+    accent-color: green;
+}

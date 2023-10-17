@@ -1,0 +1,38 @@
+h2{
+    color: darkblue;
+    
+    line-height: 50px;
+    text-align: justify;
+    text-transform: capitalize;
+    word-spacing: 0px;
+    text-indent: 0px;
+    text-shadow: -5px -5px 10px rgb(29, 1, 1);
+    background-color: rgb(171, 14, 14)
+
+}
+
+h1{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: Cambria, serif
+
+}
+
+p{
+    font-size: larger;
+    text-decoration: none;
+    font-weight: 700;
+    font-family: Cambria, serif;
+    font-style: italic;
+    text-shadow:0px 0px 0px  ;
+    line-height: 50px;
+    text-transform: capitalize;
+    /* do not change */
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+    width: 90%;
+    /* background: rgb(204, 10, 10);
+    border-color: rgb(0, 0, 0);
+} */
